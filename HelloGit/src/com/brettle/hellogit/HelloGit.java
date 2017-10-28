@@ -4,7 +4,7 @@ public class HelloGit {
 
 	public String getMessage() {
 		// TODO Auto-generated method stub
-		//Hello I changed it again!
+		//Hello I changed it again, and again!
 		return "Hello Git!";
 	}
 
